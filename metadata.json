@@ -1,0 +1,5 @@
+{
+  "name": "MagToEpub AI",
+  "description": "Convert PDF magazines to standard EPUB format using Gemini AI to intelligently preserve structure and content.",
+  "requestFramePermissions": []
+}
